@@ -2,11 +2,11 @@ This is a Django-REST API powered two way event management website which helps c
 
 Developers:-
 
-SHIVAM SINHA,
+SHIVAM SINHA
 
-SHUBHAM JAROLI,
+SHUBHAM JAROLI
 
-TANMAY GADPAYLE,
+TANMAY GADPAYLE
 
 YATHARTH SAXENA
 
